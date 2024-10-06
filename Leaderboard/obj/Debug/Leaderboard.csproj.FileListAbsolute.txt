@@ -1,0 +1,9 @@
+C:\Users\dam216\source\repos\Leaderboard\Leaderboard\bin\Debug\Leaderboard.exe.config
+C:\Users\dam216\source\repos\Leaderboard\Leaderboard\bin\Debug\Leaderboard.exe
+C:\Users\dam216\source\repos\Leaderboard\Leaderboard\bin\Debug\Leaderboard.pdb
+C:\Users\dam216\source\repos\Leaderboard\Leaderboard\obj\Debug\Leaderboard.Form1.resources
+C:\Users\dam216\source\repos\Leaderboard\Leaderboard\obj\Debug\Leaderboard.Properties.Resources.resources
+C:\Users\dam216\source\repos\Leaderboard\Leaderboard\obj\Debug\Leaderboard.csproj.GenerateResource.cache
+C:\Users\dam216\source\repos\Leaderboard\Leaderboard\obj\Debug\Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\dam216\source\repos\Leaderboard\Leaderboard\obj\Debug\Leaderboard.exe
+C:\Users\dam216\source\repos\Leaderboard\Leaderboard\obj\Debug\Leaderboard.pdb
